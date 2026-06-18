@@ -1,0 +1,13 @@
+# Scenario Analysis
+
+Domain: finance
+
+This note records an implementation detail for Treasury Liquidity Map. The current operating
+threshold is `0.68` and review should happen within `24` hours
+for records above that level.
+
+## Checks
+
+- confirm input fields are present
+- verify score ordering is stable
+- compare high exposure records against the review queue
