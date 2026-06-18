@@ -1,0 +1,7 @@
+{
+  "name": "field validation",
+  "domain": "finance",
+  "score_floor": 0.79,
+  "review_window_hours": 72,
+  "expected_action": "review"
+}
